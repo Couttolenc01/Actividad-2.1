@@ -1,7 +1,8 @@
 // =================================================================
 //
 // File: list.h
-// Author: Francisco Alejandro Velazquez Ledesma
+// Author: Francisco Couttolenc Ortiz
+
 // Date: 28/09/2022
 // 
 // =================================================================
